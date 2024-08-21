@@ -25,10 +25,16 @@ def get_lr_scheduler(
         return torch.optim.lr_scheduler.StepLR(
             optimizer, **kwargs
         )
+    elif name == "polynomial":
+        if 'power' not in kwargs:
+            kwargs['power'] = 1.0
+        return torch.optim.lr_scheduler.PolynomialLR(
+                optimizer, **kwargs
+        )
     elif name == "constant":
         if 'factor' not in kwargs:
             kwargs['factor'] = 1.0
-
+                
         return torch.optim.lr_scheduler.ConstantLR(optimizer, **kwargs)
     elif name == "linear":
 
