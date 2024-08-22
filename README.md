@@ -1,4 +1,5 @@
-# Team Crystal Clear Train-kit (based on ai-toolkit by Ostris)
+# Team Crystal Clear Train-kit 
+(based on ai-toolkit by Ostris)
 
 ## IMPORTANT NOTE - READ THIS
 This is my own fork based on https://github.com/ostris/ai-toolkit repo. 
