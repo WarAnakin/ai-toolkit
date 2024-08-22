@@ -7,9 +7,8 @@ hard to keep up with all of them.
 
 ## Support my work
 
-[<a href="https://glif.app" target="_blank">
-<img alt="glif.app" src="https://raw.githubusercontent.com/ostris/ai-toolkit/main/assets/glif.svg?v=1" width="256" height="auto">
-</a>](https://ko-fi.com/teamcrystalclear)
+
+(https://ko-fi.com/teamcrystalclear)
 
 
 My work on this project would not be possible without the amazing support of [Glif](https://glif.app/) and everyone on the 
