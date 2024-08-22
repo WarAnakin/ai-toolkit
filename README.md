@@ -8,6 +8,8 @@ hard to keep up with all of them.
 ## Support my work
 
 
+https://www.paypal.com/donate/?hosted_button_id=Z3XBHPXDQJUYJ
+
 (https://ko-fi.com/teamcrystalclear)
 
 
