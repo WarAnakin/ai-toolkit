@@ -1,22 +1,24 @@
 # Team Crystal Clear Train-kit (based on ai-toolkit by Ostris)
 
 ## IMPORTANT NOTE - READ THIS
-This is my research repo. I do a lot of experiments in it and it is possible that I will break things.
-If something breaks, checkout an earlier commit. This repo can train a lot of things, and it is
-hard to keep up with all of them.
+This is my own fork based on https://github.com/ostris/ai-toolkit repo. 
+All credits for the creation of this amazing tool goes to him.
 
-## Support my work
+
+
+## Support our work
+If you find our work to have benefited you in some way, shape, or form, you may express your gratitude via the following:
 
 
 https://www.paypal.com/donate/?hosted_button_id=Z3XBHPXDQJUYJ
 
-(https://ko-fi.com/teamcrystalclear)
+https://ko-fi.com/teamcrystalclear
 
+Join the Team Crystal Clear Discord: https://discord.gg/5mUxAcgxvG
 
-My work on this project would not be possible without the amazing support of [Glif](https://glif.app/) and everyone on the 
-team. If you want to support me, support Glif. [Join the site](https://glif.app/), 
-[Join us on Discord](https://discord.com/invite/nuR9zZ2nsh), [follow us on Twitter](https://x.com/heyglif)
-and come make some cool stuff with us
+Our work would not be possible without the amazing support of https://www.runpod.io and everyone on the 
+team. 
+
 
 ## Installation
 
@@ -30,7 +32,7 @@ Requirements:
 
 Linux:
 ```bash
-git clone https://github.com/ostris/ai-toolkit.git
+git clone https://github.com/WarAnakin/ai-toolkit.git
 cd ai-toolkit
 git submodule update --init --recursive
 python3 -m venv venv
@@ -43,7 +45,7 @@ pip3 install -r requirements.txt
 
 Windows:
 ```bash
-git clone https://github.com/ostris/ai-toolkit.git
+git clone https://github.com/WarAnakin/ai-toolkit.git
 cd ai-toolkit
 git submodule update --init --recursive
 python -m venv venv
@@ -54,7 +56,7 @@ pip install -r requirements.txt
 
 ## FLUX.1 Training
 
-### WIP. I am updating docs and optimizing as fast as I can. If there are bugs open a ticket. Not knowing how to get it to work is NOT a bug. Be paitient as I continue to develop it.
+### WIP. I am updating docs and optimizing as fast as time allows me to. 
 
 
 ### Requirements
@@ -110,11 +112,6 @@ from the last checkpoint.
 
 IMPORTANT. If you press crtl+c while it is saving, it will likely corrupt that checkpoint. So wait until it is done saving
 
-### Need help?
-
-Please do not open a bug report unless it is a bug in the code. You are welcome to [Join my Discord](https://discord.gg/SzVB3wYvxF)
-and ask for help there. However, please refrain from PMing me directly with general question or support. Ask in the discord
-and I will answer when I can.
 
 ### Training in RunPod cloud
 Example RunPod template: **runpod/pytorch:2.2.0-py3.10-cuda12.1.1-devel-ubuntu22.04**
