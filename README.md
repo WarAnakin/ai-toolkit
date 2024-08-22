@@ -1,4 +1,4 @@
-# AI Toolkit by Ostris
+# Team Crystal Clear Train-kit (based on ai-toolkit by Ostris)
 
 ## IMPORTANT NOTE - READ THIS
 This is my research repo. I do a lot of experiments in it and it is possible that I will break things.
@@ -7,9 +7,9 @@ hard to keep up with all of them.
 
 ## Support my work
 
-<a href="https://glif.app" target="_blank">
+[<a href="https://glif.app" target="_blank">
 <img alt="glif.app" src="https://raw.githubusercontent.com/ostris/ai-toolkit/main/assets/glif.svg?v=1" width="256" height="auto">
-</a>
+</a>](https://ko-fi.com/teamcrystalclear)
 
 
 My work on this project would not be possible without the amazing support of [Glif](https://glif.app/) and everyone on the 
